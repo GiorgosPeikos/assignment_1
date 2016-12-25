@@ -153,14 +153,16 @@ h1{
   position: absolute;
   right: -1px;
   top: -1px;
-  width: 22%;
+  width: 28%;
   border: 0.1px solid black;
-  text-align: center;
+  text-align:center;
   color: white;
   background: #BD0000;
   padding: 2%;
 }
-
+.row{
+  width: 100%;
+}
 #tit1{
 background-color: pink;
 color: black;
